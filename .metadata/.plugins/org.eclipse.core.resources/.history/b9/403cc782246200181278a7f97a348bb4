@@ -1,0 +1,28 @@
+package lesson1;
+
+public class Person implements Talkable {
+
+	@Override
+	public String getMessage() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public String getSender() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void setSender(String word) {
+		// TODO Auto-generated method stub
+
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
